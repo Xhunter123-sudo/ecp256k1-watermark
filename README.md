@@ -50,3 +50,6 @@ bash
 pip install ecdsa
 python verify_frequency.py
 
+
+
+btc: 15Bhqw3i6yVBN8ZRMCP9qmei3NzjKwqVG9
